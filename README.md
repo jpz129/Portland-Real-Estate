@@ -1,4 +1,4 @@
 # Portland-Real-Estate
 
 ## Sources
-Scraper code - https://github.com/maxwellbade/zillow_scrape_python
+Scraper code - https://github.com/scrapehero/zillow_real_estate
